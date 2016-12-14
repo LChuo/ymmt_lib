@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "索引"
+date:   2016-12-14 16:00:00 +0800
+categories: yamamoto_manga
+---
+Lofter不知道什么时候会关门大吉，给资源站备个份
+
+资源站[原址](http://yamamotomanga.lofter.com/)
+
+- - - 
+
+![连载作品清单](https://lchuo.github.io/ymmt_lib/_site/assets/media/list-01.jpg)
+
+![短篇·共作清单](http://lchuo.github.io/ymmt_lib/assets/media/list-02.jpg)
+
+- [连载作品·单行本（日文）](https://lchuo.github.io/ymmt_lib/yamamoto_manga/2016/12/14/longjp.html)
+
+- [短篇·共作（日文）](https://lchuo.github.io/ymmt_lib/yamamoto_manga/2016/12/14/shortjp.html)
+
+- [中文单行本](https://lchuo.github.io/ymmt_lib/yamamoto_manga/2016/12/14/longch.html)
+
+- [衍伸影视作品](https://lchuo.github.io/ymmt_lib/yamamoto_manga/2016/12/14/media.html)
+
+**请去各自对应的页面下载需要的资源**
+资源失效或链接有误请联系站主
+不定期更新补充内容
